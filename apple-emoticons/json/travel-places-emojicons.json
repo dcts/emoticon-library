@@ -1,0 +1,752 @@
+[
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/rowboat_1f6a3.png",
+    "unicode": "1f6a3",
+    "description": "rowboat",
+    "emoji": "🚣"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/silhouette-of-japan_1f5fe.png",
+    "unicode": "1f5fe",
+    "description": "silhouette-of-japan",
+    "emoji": "🗾"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/snow-capped-mountain_1f3d4.png",
+    "unicode": "1f3d4",
+    "description": "snow-capped-mountain",
+    "emoji": "🏔"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/mountain_26f0.png",
+    "unicode": "26f0",
+    "description": "mountain",
+    "emoji": "⛰"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/volcano_1f30b.png",
+    "unicode": "1f30b",
+    "description": "volcano",
+    "emoji": "🌋"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/mount-fuji_1f5fb.png",
+    "unicode": "1f5fb",
+    "description": "mount-fuji",
+    "emoji": "🗻"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/camping_1f3d5.png",
+    "unicode": "1f3d5",
+    "description": "camping",
+    "emoji": "🏕"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/beach-with-umbrella_1f3d6.png",
+    "unicode": "1f3d6",
+    "description": "beach-with-umbrella",
+    "emoji": "🏖"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/desert_1f3dc.png",
+    "unicode": "1f3dc",
+    "description": "desert",
+    "emoji": "🏜"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/desert-island_1f3dd.png",
+    "unicode": "1f3dd",
+    "description": "desert-island",
+    "emoji": "🏝"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/national-park_1f3de.png",
+    "unicode": "1f3de",
+    "description": "national-park",
+    "emoji": "🏞"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/stadium_1f3df.png",
+    "unicode": "1f3df",
+    "description": "stadium",
+    "emoji": "🏟"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/classical-building_1f3db.png",
+    "unicode": "1f3db",
+    "description": "classical-building",
+    "emoji": "🏛"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/building-construction_1f3d7.png",
+    "unicode": "1f3d7",
+    "description": "building-construction",
+    "emoji": "🏗"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/house-buildings_1f3d8.png",
+    "unicode": "1f3d8",
+    "description": "house-buildings",
+    "emoji": "🏘"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/derelict-house-building_1f3da.png",
+    "unicode": "1f3da",
+    "description": "derelict-house-building",
+    "emoji": "🏚"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/house-building_1f3e0.png",
+    "unicode": "1f3e0",
+    "description": "house-building",
+    "emoji": "🏠"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/house-with-garden_1f3e1.png",
+    "unicode": "1f3e1",
+    "description": "house-with-garden",
+    "emoji": "🏡"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/office-building_1f3e2.png",
+    "unicode": "1f3e2",
+    "description": "office-building",
+    "emoji": "🏢"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/japanese-post-office_1f3e3.png",
+    "unicode": "1f3e3",
+    "description": "japanese-post-office",
+    "emoji": "🏣"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/european-post-office_1f3e4.png",
+    "unicode": "1f3e4",
+    "description": "european-post-office",
+    "emoji": "🏤"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/hospital_1f3e5.png",
+    "unicode": "1f3e5",
+    "description": "hospital",
+    "emoji": "🏥"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/bank_1f3e6.png",
+    "unicode": "1f3e6",
+    "description": "bank",
+    "emoji": "🏦"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/hotel_1f3e8.png",
+    "unicode": "1f3e8",
+    "description": "hotel",
+    "emoji": "🏨"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/love-hotel_1f3e9.png",
+    "unicode": "1f3e9",
+    "description": "love-hotel",
+    "emoji": "🏩"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/convenience-store_1f3ea.png",
+    "unicode": "1f3ea",
+    "description": "convenience-store",
+    "emoji": "🏪"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/school_1f3eb.png",
+    "unicode": "1f3eb",
+    "description": "school",
+    "emoji": "🏫"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/department-store_1f3ec.png",
+    "unicode": "1f3ec",
+    "description": "department-store",
+    "emoji": "🏬"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/factory_1f3ed.png",
+    "unicode": "1f3ed",
+    "description": "factory",
+    "emoji": "🏭"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/japanese-castle_1f3ef.png",
+    "unicode": "1f3ef",
+    "description": "japanese-castle",
+    "emoji": "🏯"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/european-castle_1f3f0.png",
+    "unicode": "1f3f0",
+    "description": "european-castle",
+    "emoji": "🏰"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/wedding_1f492.png",
+    "unicode": "1f492",
+    "description": "wedding",
+    "emoji": "💒"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/tokyo-tower_1f5fc.png",
+    "unicode": "1f5fc",
+    "description": "tokyo-tower",
+    "emoji": "🗼"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/statue-of-liberty_1f5fd.png",
+    "unicode": "1f5fd",
+    "description": "statue-of-liberty",
+    "emoji": "🗽"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/church_26ea.png",
+    "unicode": "26ea",
+    "description": "church",
+    "emoji": "⛪"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/mosque_1f54c.png",
+    "unicode": "1f54c",
+    "description": "mosque",
+    "emoji": "🕌"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/synagogue_1f54d.png",
+    "unicode": "1f54d",
+    "description": "synagogue",
+    "emoji": "🕍"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/shinto-shrine_26e9.png",
+    "unicode": "26e9",
+    "description": "shinto-shrine",
+    "emoji": "⛩"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/kaaba_1f54b.png",
+    "unicode": "1f54b",
+    "description": "kaaba",
+    "emoji": "🕋"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/fountain_26f2.png",
+    "unicode": "26f2",
+    "description": "fountain",
+    "emoji": "⛲"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/tent_26fa.png",
+    "unicode": "26fa",
+    "description": "tent",
+    "emoji": "⛺"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/foggy_1f301.png",
+    "unicode": "1f301",
+    "description": "foggy",
+    "emoji": "🌁"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/night-with-stars_1f303.png",
+    "unicode": "1f303",
+    "description": "night-with-stars",
+    "emoji": "🌃"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/cityscape_1f3d9.png",
+    "unicode": "1f3d9",
+    "description": "cityscape",
+    "emoji": "🏙"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/sunrise-over-mountains_1f304.png",
+    "unicode": "1f304",
+    "description": "sunrise-over-mountains",
+    "emoji": "🌄"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/sunrise_1f305.png",
+    "unicode": "1f305",
+    "description": "sunrise",
+    "emoji": "🌅"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/cityscape-at-dusk_1f306.png",
+    "unicode": "1f306",
+    "description": "cityscape-at-dusk",
+    "emoji": "🌆"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/sunset-over-buildings_1f307.png",
+    "unicode": "1f307",
+    "description": "sunset-over-buildings",
+    "emoji": "🌇"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/bridge-at-night_1f309.png",
+    "unicode": "1f309",
+    "description": "bridge-at-night",
+    "emoji": "🌉"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/carousel-horse_1f3a0.png",
+    "unicode": "1f3a0",
+    "description": "carousel-horse",
+    "emoji": "🎠"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/ferris-wheel_1f3a1.png",
+    "unicode": "1f3a1",
+    "description": "ferris-wheel",
+    "emoji": "🎡"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/roller-coaster_1f3a2.png",
+    "unicode": "1f3a2",
+    "description": "roller-coaster",
+    "emoji": "🎢"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/steam-locomotive_1f682.png",
+    "unicode": "1f682",
+    "description": "steam-locomotive",
+    "emoji": "🚂"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/railway-car_1f683.png",
+    "unicode": "1f683",
+    "description": "railway-car",
+    "emoji": "🚃"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/high-speed-train_1f684.png",
+    "unicode": "1f684",
+    "description": "high-speed-train",
+    "emoji": "🚄"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/high-speed-train-with-bullet-nose_1f685.png",
+    "unicode": "1f685",
+    "description": "high-speed-train-with-bullet-nose",
+    "emoji": "🚅"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/train_1f686.png",
+    "unicode": "1f686",
+    "description": "train",
+    "emoji": "🚆"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/metro_1f687.png",
+    "unicode": "1f687",
+    "description": "metro",
+    "emoji": "🚇"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/light-rail_1f688.png",
+    "unicode": "1f688",
+    "description": "light-rail",
+    "emoji": "🚈"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/station_1f689.png",
+    "unicode": "1f689",
+    "description": "station",
+    "emoji": "🚉"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/tram_1f68a.png",
+    "unicode": "1f68a",
+    "description": "tram",
+    "emoji": "🚊"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/monorail_1f69d.png",
+    "unicode": "1f69d",
+    "description": "monorail",
+    "emoji": "🚝"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/mountain-railway_1f69e.png",
+    "unicode": "1f69e",
+    "description": "mountain-railway",
+    "emoji": "🚞"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/tram-car_1f68b.png",
+    "unicode": "1f68b",
+    "description": "tram-car",
+    "emoji": "🚋"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/bus_1f68c.png",
+    "unicode": "1f68c",
+    "description": "bus",
+    "emoji": "🚌"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/oncoming-bus_1f68d.png",
+    "unicode": "1f68d",
+    "description": "oncoming-bus",
+    "emoji": "🚍"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/trolleybus_1f68e.png",
+    "unicode": "1f68e",
+    "description": "trolleybus",
+    "emoji": "🚎"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/minibus_1f690.png",
+    "unicode": "1f690",
+    "description": "minibus",
+    "emoji": "🚐"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/ambulance_1f691.png",
+    "unicode": "1f691",
+    "description": "ambulance",
+    "emoji": "🚑"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/fire-engine_1f692.png",
+    "unicode": "1f692",
+    "description": "fire-engine",
+    "emoji": "🚒"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/police-car_1f693.png",
+    "unicode": "1f693",
+    "description": "police-car",
+    "emoji": "🚓"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/oncoming-police-car_1f694.png",
+    "unicode": "1f694",
+    "description": "oncoming-police-car",
+    "emoji": "🚔"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/taxi_1f695.png",
+    "unicode": "1f695",
+    "description": "taxi",
+    "emoji": "🚕"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/oncoming-taxi_1f696.png",
+    "unicode": "1f696",
+    "description": "oncoming-taxi",
+    "emoji": "🚖"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/automobile_1f697.png",
+    "unicode": "1f697",
+    "description": "automobile",
+    "emoji": "🚗"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/oncoming-automobile_1f698.png",
+    "unicode": "1f698",
+    "description": "oncoming-automobile",
+    "emoji": "🚘"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/delivery-truck_1f69a.png",
+    "unicode": "1f69a",
+    "description": "delivery-truck",
+    "emoji": "🚚"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/articulated-lorry_1f69b.png",
+    "unicode": "1f69b",
+    "description": "articulated-lorry",
+    "emoji": "🚛"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/tractor_1f69c.png",
+    "unicode": "1f69c",
+    "description": "tractor",
+    "emoji": "🚜"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/racing-car_1f3ce.png",
+    "unicode": "1f3ce",
+    "description": "racing-car",
+    "emoji": "🏎"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/racing-motorcycle_1f3cd.png",
+    "unicode": "1f3cd",
+    "description": "racing-motorcycle",
+    "emoji": "🏍"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/motor-scooter_1f6f5.png",
+    "unicode": "1f6f5",
+    "description": "motor-scooter",
+    "emoji": "🛵"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/bicycle_1f6b2.png",
+    "unicode": "1f6b2",
+    "description": "bicycle",
+    "emoji": "🚲"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/scooter_1f6f4.png",
+    "unicode": "1f6f4",
+    "description": "scooter",
+    "emoji": "🛴"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/bus-stop_1f68f.png",
+    "unicode": "1f68f",
+    "description": "bus-stop",
+    "emoji": "🚏"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/railway-track_1f6e4.png",
+    "unicode": "1f6e4",
+    "description": "railway-track",
+    "emoji": "🛤"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/fuel-pump_26fd.png",
+    "unicode": "26fd",
+    "description": "fuel-pump",
+    "emoji": "⛽"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/police-cars-revolving-light_1f6a8.png",
+    "unicode": "1f6a8",
+    "description": "police-cars-revolving-light",
+    "emoji": "🚨"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/horizontal-traffic-light_1f6a5.png",
+    "unicode": "1f6a5",
+    "description": "horizontal-traffic-light",
+    "emoji": "🚥"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/vertical-traffic-light_1f6a6.png",
+    "unicode": "1f6a6",
+    "description": "vertical-traffic-light",
+    "emoji": "🚦"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/construction-sign_1f6a7.png",
+    "unicode": "1f6a7",
+    "description": "construction-sign",
+    "emoji": "🚧"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/anchor_2693.png",
+    "unicode": "2693",
+    "description": "anchor",
+    "emoji": "⚓"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/sailboat_26f5.png",
+    "unicode": "26f5",
+    "description": "sailboat",
+    "emoji": "⛵"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/speedboat_1f6a4.png",
+    "unicode": "1f6a4",
+    "description": "speedboat",
+    "emoji": "🚤"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/passenger-ship_1f6f3.png",
+    "unicode": "1f6f3",
+    "description": "passenger-ship",
+    "emoji": "🛳"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/ferry_26f4.png",
+    "unicode": "26f4",
+    "description": "ferry",
+    "emoji": "⛴"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/motor-boat_1f6e5.png",
+    "unicode": "1f6e5",
+    "description": "motor-boat",
+    "emoji": "🛥"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/ship_1f6a2.png",
+    "unicode": "1f6a2",
+    "description": "ship",
+    "emoji": "🚢"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/airplane_2708.png",
+    "unicode": "2708",
+    "description": "airplane",
+    "emoji": "✈"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/small-airplane_1f6e9.png",
+    "unicode": "1f6e9",
+    "description": "small-airplane",
+    "emoji": "🛩"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/airplane-departure_1f6eb.png",
+    "unicode": "1f6eb",
+    "description": "airplane-departure",
+    "emoji": "🛫"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/airplane-arriving_1f6ec.png",
+    "unicode": "1f6ec",
+    "description": "airplane-arriving",
+    "emoji": "🛬"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/seat_1f4ba.png",
+    "unicode": "1f4ba",
+    "description": "seat",
+    "emoji": "💺"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/helicopter_1f681.png",
+    "unicode": "1f681",
+    "description": "helicopter",
+    "emoji": "🚁"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/suspension-railway_1f69f.png",
+    "unicode": "1f69f",
+    "description": "suspension-railway",
+    "emoji": "🚟"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/mountain-cableway_1f6a0.png",
+    "unicode": "1f6a0",
+    "description": "mountain-cableway",
+    "emoji": "🚠"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/aerial-tramway_1f6a1.png",
+    "unicode": "1f6a1",
+    "description": "aerial-tramway",
+    "emoji": "🚡"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/satellite_1f6f0.png",
+    "unicode": "1f6f0",
+    "description": "satellite",
+    "emoji": "🛰"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/rocket_1f680.png",
+    "unicode": "1f680",
+    "description": "rocket",
+    "emoji": "🚀"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flying-saucer_1f6f8.png",
+    "unicode": "1f6f8",
+    "description": "flying-saucer",
+    "emoji": "🛸"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/shooting-star_1f320.png",
+    "unicode": "1f320",
+    "description": "shooting-star",
+    "emoji": "🌠"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/milky-way_1f30c.png",
+    "unicode": "1f30c",
+    "description": "milky-way",
+    "emoji": "🌌"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/umbrella-on-ground_26f1.png",
+    "unicode": "26f1",
+    "description": "umbrella-on-ground",
+    "emoji": "⛱"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/fireworks_1f386.png",
+    "unicode": "1f386",
+    "description": "fireworks",
+    "emoji": "🎆"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/firework-sparkler_1f387.png",
+    "unicode": "1f387",
+    "description": "firework-sparkler",
+    "emoji": "🎇"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/moon-viewing-ceremony_1f391.png",
+    "unicode": "1f391",
+    "description": "moon-viewing-ceremony",
+    "emoji": "🎑"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/banknote-with-yen-sign_1f4b4.png",
+    "unicode": "1f4b4",
+    "description": "banknote-with-yen-sign",
+    "emoji": "💴"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/banknote-with-dollar-sign_1f4b5.png",
+    "unicode": "1f4b5",
+    "description": "banknote-with-dollar-sign",
+    "emoji": "💵"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/banknote-with-euro-sign_1f4b6.png",
+    "unicode": "1f4b6",
+    "description": "banknote-with-euro-sign",
+    "emoji": "💶"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/banknote-with-pound-sign_1f4b7.png",
+    "unicode": "1f4b7",
+    "description": "banknote-with-pound-sign",
+    "emoji": "💷"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/moyai_1f5ff.png",
+    "unicode": "1f5ff",
+    "description": "moyai",
+    "emoji": "🗿"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/passport-control_1f6c2.png",
+    "unicode": "1f6c2",
+    "description": "passport-control",
+    "emoji": "🛂"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/customs_1f6c3.png",
+    "unicode": "1f6c3",
+    "description": "customs",
+    "emoji": "🛃"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/baggage-claim_1f6c4.png",
+    "unicode": "1f6c4",
+    "description": "baggage-claim",
+    "emoji": "🛄"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/left-luggage_1f6c5.png",
+    "unicode": "1f6c5",
+    "description": "left-luggage",
+    "emoji": "🛅"
+  }
+]

@@ -1,0 +1,1622 @@
+[
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/chequered-flag_1f3c1.png",
+    "unicode": "1f3c1",
+    "description": "chequered-flag",
+    "emoji": "🏁"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/triangular-flag-on-post_1f6a9.png",
+    "unicode": "1f6a9",
+    "description": "triangular-flag-on-post",
+    "emoji": "🚩"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/crossed-flags_1f38c.png",
+    "unicode": "1f38c",
+    "description": "crossed-flags",
+    "emoji": "🎌"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/waving-black-flag_1f3f4.png",
+    "unicode": "1f3f4",
+    "description": "waving-black-flag",
+    "emoji": "🏴"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/waving-white-flag_1f3f3.png",
+    "unicode": "1f3f3",
+    "description": "waving-white-flag",
+    "emoji": "🏳"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/rainbow-flag_1f3f3-fe0f-200d-1f308.png",
+    "unicode": "1f3f3-fe0f-200d-1f308",
+    "description": "rainbow-flag",
+    "emoji": "🏳️‍🌈"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/transgender-flag_1f3f3-fe0f-200d-26a7-fe0f.png",
+    "unicode": "1f3f3-fe0f-200d-26a7-fe0f",
+    "description": "transgender-flag",
+    "emoji": "🏳️‍⚧️"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/pirate-flag_1f3f4-200d-2620-fe0f.png",
+    "unicode": "1f3f4-200d-2620-fe0f",
+    "description": "pirate-flag",
+    "emoji": "🏴‍☠️"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-ascension-island_1f1e6-1f1e8.png",
+    "unicode": "1f1e6-1f1e8",
+    "description": "flag-for-ascension-island",
+    "emoji": "🇦🇨"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-andorra_1f1e6-1f1e9.png",
+    "unicode": "1f1e6-1f1e9",
+    "description": "flag-for-andorra",
+    "emoji": "🇦🇩"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-united-arab-emirates_1f1e6-1f1ea.png",
+    "unicode": "1f1e6-1f1ea",
+    "description": "flag-for-united-arab-emirates",
+    "emoji": "🇦🇪"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-afghanistan_1f1e6-1f1eb.png",
+    "unicode": "1f1e6-1f1eb",
+    "description": "flag-for-afghanistan",
+    "emoji": "🇦🇫"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-antigua-barbuda_1f1e6-1f1ec.png",
+    "unicode": "1f1e6-1f1ec",
+    "description": "flag-for-antigua-barbuda",
+    "emoji": "🇦🇬"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-anguilla_1f1e6-1f1ee.png",
+    "unicode": "1f1e6-1f1ee",
+    "description": "flag-for-anguilla",
+    "emoji": "🇦🇮"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-albania_1f1e6-1f1f1.png",
+    "unicode": "1f1e6-1f1f1",
+    "description": "flag-for-albania",
+    "emoji": "🇦🇱"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-armenia_1f1e6-1f1f2.png",
+    "unicode": "1f1e6-1f1f2",
+    "description": "flag-for-armenia",
+    "emoji": "🇦🇲"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-angola_1f1e6-1f1f4.png",
+    "unicode": "1f1e6-1f1f4",
+    "description": "flag-for-angola",
+    "emoji": "🇦🇴"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-antarctica_1f1e6-1f1f6.png",
+    "unicode": "1f1e6-1f1f6",
+    "description": "flag-for-antarctica",
+    "emoji": "🇦🇶"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-argentina_1f1e6-1f1f7.png",
+    "unicode": "1f1e6-1f1f7",
+    "description": "flag-for-argentina",
+    "emoji": "🇦🇷"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-american-samoa_1f1e6-1f1f8.png",
+    "unicode": "1f1e6-1f1f8",
+    "description": "flag-for-american-samoa",
+    "emoji": "🇦🇸"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-austria_1f1e6-1f1f9.png",
+    "unicode": "1f1e6-1f1f9",
+    "description": "flag-for-austria",
+    "emoji": "🇦🇹"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-australia_1f1e6-1f1fa.png",
+    "unicode": "1f1e6-1f1fa",
+    "description": "flag-for-australia",
+    "emoji": "🇦🇺"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-aruba_1f1e6-1f1fc.png",
+    "unicode": "1f1e6-1f1fc",
+    "description": "flag-for-aruba",
+    "emoji": "🇦🇼"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-aland-islands_1f1e6-1f1fd.png",
+    "unicode": "1f1e6-1f1fd",
+    "description": "flag-for-aland-islands",
+    "emoji": "🇦🇽"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-azerbaijan_1f1e6-1f1ff.png",
+    "unicode": "1f1e6-1f1ff",
+    "description": "flag-for-azerbaijan",
+    "emoji": "🇦🇿"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-bosnia-herzegovina_1f1e7-1f1e6.png",
+    "unicode": "1f1e7-1f1e6",
+    "description": "flag-for-bosnia-herzegovina",
+    "emoji": "🇧🇦"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-barbados_1f1e7-1f1e7.png",
+    "unicode": "1f1e7-1f1e7",
+    "description": "flag-for-barbados",
+    "emoji": "🇧🇧"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-bangladesh_1f1e7-1f1e9.png",
+    "unicode": "1f1e7-1f1e9",
+    "description": "flag-for-bangladesh",
+    "emoji": "🇧🇩"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-belgium_1f1e7-1f1ea.png",
+    "unicode": "1f1e7-1f1ea",
+    "description": "flag-for-belgium",
+    "emoji": "🇧🇪"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-burkina-faso_1f1e7-1f1eb.png",
+    "unicode": "1f1e7-1f1eb",
+    "description": "flag-for-burkina-faso",
+    "emoji": "🇧🇫"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-bulgaria_1f1e7-1f1ec.png",
+    "unicode": "1f1e7-1f1ec",
+    "description": "flag-for-bulgaria",
+    "emoji": "🇧🇬"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-bahrain_1f1e7-1f1ed.png",
+    "unicode": "1f1e7-1f1ed",
+    "description": "flag-for-bahrain",
+    "emoji": "🇧🇭"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-burundi_1f1e7-1f1ee.png",
+    "unicode": "1f1e7-1f1ee",
+    "description": "flag-for-burundi",
+    "emoji": "🇧🇮"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-benin_1f1e7-1f1ef.png",
+    "unicode": "1f1e7-1f1ef",
+    "description": "flag-for-benin",
+    "emoji": "🇧🇯"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-st-barthelemy_1f1e7-1f1f1.png",
+    "unicode": "1f1e7-1f1f1",
+    "description": "flag-for-st-barthelemy",
+    "emoji": "🇧🇱"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-bermuda_1f1e7-1f1f2.png",
+    "unicode": "1f1e7-1f1f2",
+    "description": "flag-for-bermuda",
+    "emoji": "🇧🇲"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-brunei_1f1e7-1f1f3.png",
+    "unicode": "1f1e7-1f1f3",
+    "description": "flag-for-brunei",
+    "emoji": "🇧🇳"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-bolivia_1f1e7-1f1f4.png",
+    "unicode": "1f1e7-1f1f4",
+    "description": "flag-for-bolivia",
+    "emoji": "🇧🇴"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-caribbean-netherlands_1f1e7-1f1f6.png",
+    "unicode": "1f1e7-1f1f6",
+    "description": "flag-for-caribbean-netherlands",
+    "emoji": "🇧🇶"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-brazil_1f1e7-1f1f7.png",
+    "unicode": "1f1e7-1f1f7",
+    "description": "flag-for-brazil",
+    "emoji": "🇧🇷"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-bahamas_1f1e7-1f1f8.png",
+    "unicode": "1f1e7-1f1f8",
+    "description": "flag-for-bahamas",
+    "emoji": "🇧🇸"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-bhutan_1f1e7-1f1f9.png",
+    "unicode": "1f1e7-1f1f9",
+    "description": "flag-for-bhutan",
+    "emoji": "🇧🇹"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-bouvet-island_1f1e7-1f1fb.png",
+    "unicode": "1f1e7-1f1fb",
+    "description": "flag-for-bouvet-island",
+    "emoji": "🇧🇻"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-botswana_1f1e7-1f1fc.png",
+    "unicode": "1f1e7-1f1fc",
+    "description": "flag-for-botswana",
+    "emoji": "🇧🇼"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-belarus_1f1e7-1f1fe.png",
+    "unicode": "1f1e7-1f1fe",
+    "description": "flag-for-belarus",
+    "emoji": "🇧🇾"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-belize_1f1e7-1f1ff.png",
+    "unicode": "1f1e7-1f1ff",
+    "description": "flag-for-belize",
+    "emoji": "🇧🇿"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-canada_1f1e8-1f1e6.png",
+    "unicode": "1f1e8-1f1e6",
+    "description": "flag-for-canada",
+    "emoji": "🇨🇦"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-cocos-islands_1f1e8-1f1e8.png",
+    "unicode": "1f1e8-1f1e8",
+    "description": "flag-for-cocos-islands",
+    "emoji": "🇨🇨"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-congo-kinshasa_1f1e8-1f1e9.png",
+    "unicode": "1f1e8-1f1e9",
+    "description": "flag-for-congo-kinshasa",
+    "emoji": "🇨🇩"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-central-african-republic_1f1e8-1f1eb.png",
+    "unicode": "1f1e8-1f1eb",
+    "description": "flag-for-central-african-republic",
+    "emoji": "🇨🇫"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-congo-brazzaville_1f1e8-1f1ec.png",
+    "unicode": "1f1e8-1f1ec",
+    "description": "flag-for-congo-brazzaville",
+    "emoji": "🇨🇬"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-switzerland_1f1e8-1f1ed.png",
+    "unicode": "1f1e8-1f1ed",
+    "description": "flag-for-switzerland",
+    "emoji": "🇨🇭"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-cote-divoire_1f1e8-1f1ee.png",
+    "unicode": "1f1e8-1f1ee",
+    "description": "flag-for-cote-divoire",
+    "emoji": "🇨🇮"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-cook-islands_1f1e8-1f1f0.png",
+    "unicode": "1f1e8-1f1f0",
+    "description": "flag-for-cook-islands",
+    "emoji": "🇨🇰"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-chile_1f1e8-1f1f1.png",
+    "unicode": "1f1e8-1f1f1",
+    "description": "flag-for-chile",
+    "emoji": "🇨🇱"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-cameroon_1f1e8-1f1f2.png",
+    "unicode": "1f1e8-1f1f2",
+    "description": "flag-for-cameroon",
+    "emoji": "🇨🇲"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-china_1f1e8-1f1f3.png",
+    "unicode": "1f1e8-1f1f3",
+    "description": "flag-for-china",
+    "emoji": "🇨🇳"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-colombia_1f1e8-1f1f4.png",
+    "unicode": "1f1e8-1f1f4",
+    "description": "flag-for-colombia",
+    "emoji": "🇨🇴"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-clipperton-island_1f1e8-1f1f5.png",
+    "unicode": "1f1e8-1f1f5",
+    "description": "flag-for-clipperton-island",
+    "emoji": "🇨🇵"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-costa-rica_1f1e8-1f1f7.png",
+    "unicode": "1f1e8-1f1f7",
+    "description": "flag-for-costa-rica",
+    "emoji": "🇨🇷"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-cuba_1f1e8-1f1fa.png",
+    "unicode": "1f1e8-1f1fa",
+    "description": "flag-for-cuba",
+    "emoji": "🇨🇺"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-cape-verde_1f1e8-1f1fb.png",
+    "unicode": "1f1e8-1f1fb",
+    "description": "flag-for-cape-verde",
+    "emoji": "🇨🇻"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-curacao_1f1e8-1f1fc.png",
+    "unicode": "1f1e8-1f1fc",
+    "description": "flag-for-curacao",
+    "emoji": "🇨🇼"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-christmas-island_1f1e8-1f1fd.png",
+    "unicode": "1f1e8-1f1fd",
+    "description": "flag-for-christmas-island",
+    "emoji": "🇨🇽"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-cyprus_1f1e8-1f1fe.png",
+    "unicode": "1f1e8-1f1fe",
+    "description": "flag-for-cyprus",
+    "emoji": "🇨🇾"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-czech-republic_1f1e8-1f1ff.png",
+    "unicode": "1f1e8-1f1ff",
+    "description": "flag-for-czech-republic",
+    "emoji": "🇨🇿"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-germany_1f1e9-1f1ea.png",
+    "unicode": "1f1e9-1f1ea",
+    "description": "flag-for-germany",
+    "emoji": "🇩🇪"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-diego-garcia_1f1e9-1f1ec.png",
+    "unicode": "1f1e9-1f1ec",
+    "description": "flag-for-diego-garcia",
+    "emoji": "🇩🇬"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-djibouti_1f1e9-1f1ef.png",
+    "unicode": "1f1e9-1f1ef",
+    "description": "flag-for-djibouti",
+    "emoji": "🇩🇯"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-denmark_1f1e9-1f1f0.png",
+    "unicode": "1f1e9-1f1f0",
+    "description": "flag-for-denmark",
+    "emoji": "🇩🇰"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-dominica_1f1e9-1f1f2.png",
+    "unicode": "1f1e9-1f1f2",
+    "description": "flag-for-dominica",
+    "emoji": "🇩🇲"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-dominican-republic_1f1e9-1f1f4.png",
+    "unicode": "1f1e9-1f1f4",
+    "description": "flag-for-dominican-republic",
+    "emoji": "🇩🇴"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-algeria_1f1e9-1f1ff.png",
+    "unicode": "1f1e9-1f1ff",
+    "description": "flag-for-algeria",
+    "emoji": "🇩🇿"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-ceuta-melilla_1f1ea-1f1e6.png",
+    "unicode": "1f1ea-1f1e6",
+    "description": "flag-for-ceuta-melilla",
+    "emoji": "🇪🇦"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-ecuador_1f1ea-1f1e8.png",
+    "unicode": "1f1ea-1f1e8",
+    "description": "flag-for-ecuador",
+    "emoji": "🇪🇨"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-estonia_1f1ea-1f1ea.png",
+    "unicode": "1f1ea-1f1ea",
+    "description": "flag-for-estonia",
+    "emoji": "🇪🇪"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-egypt_1f1ea-1f1ec.png",
+    "unicode": "1f1ea-1f1ec",
+    "description": "flag-for-egypt",
+    "emoji": "🇪🇬"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-western-sahara_1f1ea-1f1ed.png",
+    "unicode": "1f1ea-1f1ed",
+    "description": "flag-for-western-sahara",
+    "emoji": "🇪🇭"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-eritrea_1f1ea-1f1f7.png",
+    "unicode": "1f1ea-1f1f7",
+    "description": "flag-for-eritrea",
+    "emoji": "🇪🇷"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-spain_1f1ea-1f1f8.png",
+    "unicode": "1f1ea-1f1f8",
+    "description": "flag-for-spain",
+    "emoji": "🇪🇸"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-ethiopia_1f1ea-1f1f9.png",
+    "unicode": "1f1ea-1f1f9",
+    "description": "flag-for-ethiopia",
+    "emoji": "🇪🇹"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-european-union_1f1ea-1f1fa.png",
+    "unicode": "1f1ea-1f1fa",
+    "description": "flag-for-european-union",
+    "emoji": "🇪🇺"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-finland_1f1eb-1f1ee.png",
+    "unicode": "1f1eb-1f1ee",
+    "description": "flag-for-finland",
+    "emoji": "🇫🇮"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-fiji_1f1eb-1f1ef.png",
+    "unicode": "1f1eb-1f1ef",
+    "description": "flag-for-fiji",
+    "emoji": "🇫🇯"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-falkland-islands_1f1eb-1f1f0.png",
+    "unicode": "1f1eb-1f1f0",
+    "description": "flag-for-falkland-islands",
+    "emoji": "🇫🇰"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-micronesia_1f1eb-1f1f2.png",
+    "unicode": "1f1eb-1f1f2",
+    "description": "flag-for-micronesia",
+    "emoji": "🇫🇲"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-faroe-islands_1f1eb-1f1f4.png",
+    "unicode": "1f1eb-1f1f4",
+    "description": "flag-for-faroe-islands",
+    "emoji": "🇫🇴"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-france_1f1eb-1f1f7.png",
+    "unicode": "1f1eb-1f1f7",
+    "description": "flag-for-france",
+    "emoji": "🇫🇷"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-gabon_1f1ec-1f1e6.png",
+    "unicode": "1f1ec-1f1e6",
+    "description": "flag-for-gabon",
+    "emoji": "🇬🇦"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-united-kingdom_1f1ec-1f1e7.png",
+    "unicode": "1f1ec-1f1e7",
+    "description": "flag-for-united-kingdom",
+    "emoji": "🇬🇧"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-grenada_1f1ec-1f1e9.png",
+    "unicode": "1f1ec-1f1e9",
+    "description": "flag-for-grenada",
+    "emoji": "🇬🇩"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-georgia_1f1ec-1f1ea.png",
+    "unicode": "1f1ec-1f1ea",
+    "description": "flag-for-georgia",
+    "emoji": "🇬🇪"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-french-guiana_1f1ec-1f1eb.png",
+    "unicode": "1f1ec-1f1eb",
+    "description": "flag-for-french-guiana",
+    "emoji": "🇬🇫"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-guernsey_1f1ec-1f1ec.png",
+    "unicode": "1f1ec-1f1ec",
+    "description": "flag-for-guernsey",
+    "emoji": "🇬🇬"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-ghana_1f1ec-1f1ed.png",
+    "unicode": "1f1ec-1f1ed",
+    "description": "flag-for-ghana",
+    "emoji": "🇬🇭"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-gibraltar_1f1ec-1f1ee.png",
+    "unicode": "1f1ec-1f1ee",
+    "description": "flag-for-gibraltar",
+    "emoji": "🇬🇮"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-greenland_1f1ec-1f1f1.png",
+    "unicode": "1f1ec-1f1f1",
+    "description": "flag-for-greenland",
+    "emoji": "🇬🇱"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-gambia_1f1ec-1f1f2.png",
+    "unicode": "1f1ec-1f1f2",
+    "description": "flag-for-gambia",
+    "emoji": "🇬🇲"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-guinea_1f1ec-1f1f3.png",
+    "unicode": "1f1ec-1f1f3",
+    "description": "flag-for-guinea",
+    "emoji": "🇬🇳"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-guadeloupe_1f1ec-1f1f5.png",
+    "unicode": "1f1ec-1f1f5",
+    "description": "flag-for-guadeloupe",
+    "emoji": "🇬🇵"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-equatorial-guinea_1f1ec-1f1f6.png",
+    "unicode": "1f1ec-1f1f6",
+    "description": "flag-for-equatorial-guinea",
+    "emoji": "🇬🇶"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-greece_1f1ec-1f1f7.png",
+    "unicode": "1f1ec-1f1f7",
+    "description": "flag-for-greece",
+    "emoji": "🇬🇷"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-south-georgia-south-sandwich-islands_1f1ec-1f1f8.png",
+    "unicode": "1f1ec-1f1f8",
+    "description": "flag-for-south-georgia-south-sandwich-islands",
+    "emoji": "🇬🇸"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-guatemala_1f1ec-1f1f9.png",
+    "unicode": "1f1ec-1f1f9",
+    "description": "flag-for-guatemala",
+    "emoji": "🇬🇹"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-guam_1f1ec-1f1fa.png",
+    "unicode": "1f1ec-1f1fa",
+    "description": "flag-for-guam",
+    "emoji": "🇬🇺"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-guinea-bissau_1f1ec-1f1fc.png",
+    "unicode": "1f1ec-1f1fc",
+    "description": "flag-for-guinea-bissau",
+    "emoji": "🇬🇼"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-guyana_1f1ec-1f1fe.png",
+    "unicode": "1f1ec-1f1fe",
+    "description": "flag-for-guyana",
+    "emoji": "🇬🇾"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-hong-kong_1f1ed-1f1f0.png",
+    "unicode": "1f1ed-1f1f0",
+    "description": "flag-for-hong-kong",
+    "emoji": "🇭🇰"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-heard-mcdonald-islands_1f1ed-1f1f2.png",
+    "unicode": "1f1ed-1f1f2",
+    "description": "flag-for-heard-mcdonald-islands",
+    "emoji": "🇭🇲"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-honduras_1f1ed-1f1f3.png",
+    "unicode": "1f1ed-1f1f3",
+    "description": "flag-for-honduras",
+    "emoji": "🇭🇳"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-croatia_1f1ed-1f1f7.png",
+    "unicode": "1f1ed-1f1f7",
+    "description": "flag-for-croatia",
+    "emoji": "🇭🇷"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-haiti_1f1ed-1f1f9.png",
+    "unicode": "1f1ed-1f1f9",
+    "description": "flag-for-haiti",
+    "emoji": "🇭🇹"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-hungary_1f1ed-1f1fa.png",
+    "unicode": "1f1ed-1f1fa",
+    "description": "flag-for-hungary",
+    "emoji": "🇭🇺"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-canary-islands_1f1ee-1f1e8.png",
+    "unicode": "1f1ee-1f1e8",
+    "description": "flag-for-canary-islands",
+    "emoji": "🇮🇨"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-indonesia_1f1ee-1f1e9.png",
+    "unicode": "1f1ee-1f1e9",
+    "description": "flag-for-indonesia",
+    "emoji": "🇮🇩"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-ireland_1f1ee-1f1ea.png",
+    "unicode": "1f1ee-1f1ea",
+    "description": "flag-for-ireland",
+    "emoji": "🇮🇪"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-israel_1f1ee-1f1f1.png",
+    "unicode": "1f1ee-1f1f1",
+    "description": "flag-for-israel",
+    "emoji": "🇮🇱"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-isle-of-man_1f1ee-1f1f2.png",
+    "unicode": "1f1ee-1f1f2",
+    "description": "flag-for-isle-of-man",
+    "emoji": "🇮🇲"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-india_1f1ee-1f1f3.png",
+    "unicode": "1f1ee-1f1f3",
+    "description": "flag-for-india",
+    "emoji": "🇮🇳"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-british-indian-ocean-territory_1f1ee-1f1f4.png",
+    "unicode": "1f1ee-1f1f4",
+    "description": "flag-for-british-indian-ocean-territory",
+    "emoji": "🇮🇴"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-iraq_1f1ee-1f1f6.png",
+    "unicode": "1f1ee-1f1f6",
+    "description": "flag-for-iraq",
+    "emoji": "🇮🇶"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-iran_1f1ee-1f1f7.png",
+    "unicode": "1f1ee-1f1f7",
+    "description": "flag-for-iran",
+    "emoji": "🇮🇷"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-iceland_1f1ee-1f1f8.png",
+    "unicode": "1f1ee-1f1f8",
+    "description": "flag-for-iceland",
+    "emoji": "🇮🇸"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-italy_1f1ee-1f1f9.png",
+    "unicode": "1f1ee-1f1f9",
+    "description": "flag-for-italy",
+    "emoji": "🇮🇹"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-jersey_1f1ef-1f1ea.png",
+    "unicode": "1f1ef-1f1ea",
+    "description": "flag-for-jersey",
+    "emoji": "🇯🇪"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-jamaica_1f1ef-1f1f2.png",
+    "unicode": "1f1ef-1f1f2",
+    "description": "flag-for-jamaica",
+    "emoji": "🇯🇲"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-jordan_1f1ef-1f1f4.png",
+    "unicode": "1f1ef-1f1f4",
+    "description": "flag-for-jordan",
+    "emoji": "🇯🇴"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-japan_1f1ef-1f1f5.png",
+    "unicode": "1f1ef-1f1f5",
+    "description": "flag-for-japan",
+    "emoji": "🇯🇵"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-kenya_1f1f0-1f1ea.png",
+    "unicode": "1f1f0-1f1ea",
+    "description": "flag-for-kenya",
+    "emoji": "🇰🇪"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-kyrgyzstan_1f1f0-1f1ec.png",
+    "unicode": "1f1f0-1f1ec",
+    "description": "flag-for-kyrgyzstan",
+    "emoji": "🇰🇬"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-cambodia_1f1f0-1f1ed.png",
+    "unicode": "1f1f0-1f1ed",
+    "description": "flag-for-cambodia",
+    "emoji": "🇰🇭"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-kiribati_1f1f0-1f1ee.png",
+    "unicode": "1f1f0-1f1ee",
+    "description": "flag-for-kiribati",
+    "emoji": "🇰🇮"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-comoros_1f1f0-1f1f2.png",
+    "unicode": "1f1f0-1f1f2",
+    "description": "flag-for-comoros",
+    "emoji": "🇰🇲"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-st-kitts-nevis_1f1f0-1f1f3.png",
+    "unicode": "1f1f0-1f1f3",
+    "description": "flag-for-st-kitts-nevis",
+    "emoji": "🇰🇳"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-north-korea_1f1f0-1f1f5.png",
+    "unicode": "1f1f0-1f1f5",
+    "description": "flag-for-north-korea",
+    "emoji": "🇰🇵"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-south-korea_1f1f0-1f1f7.png",
+    "unicode": "1f1f0-1f1f7",
+    "description": "flag-for-south-korea",
+    "emoji": "🇰🇷"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-kuwait_1f1f0-1f1fc.png",
+    "unicode": "1f1f0-1f1fc",
+    "description": "flag-for-kuwait",
+    "emoji": "🇰🇼"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-cayman-islands_1f1f0-1f1fe.png",
+    "unicode": "1f1f0-1f1fe",
+    "description": "flag-for-cayman-islands",
+    "emoji": "🇰🇾"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-kazakhstan_1f1f0-1f1ff.png",
+    "unicode": "1f1f0-1f1ff",
+    "description": "flag-for-kazakhstan",
+    "emoji": "🇰🇿"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-laos_1f1f1-1f1e6.png",
+    "unicode": "1f1f1-1f1e6",
+    "description": "flag-for-laos",
+    "emoji": "🇱🇦"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-lebanon_1f1f1-1f1e7.png",
+    "unicode": "1f1f1-1f1e7",
+    "description": "flag-for-lebanon",
+    "emoji": "🇱🇧"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-st-lucia_1f1f1-1f1e8.png",
+    "unicode": "1f1f1-1f1e8",
+    "description": "flag-for-st-lucia",
+    "emoji": "🇱🇨"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-liechtenstein_1f1f1-1f1ee.png",
+    "unicode": "1f1f1-1f1ee",
+    "description": "flag-for-liechtenstein",
+    "emoji": "🇱🇮"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-sri-lanka_1f1f1-1f1f0.png",
+    "unicode": "1f1f1-1f1f0",
+    "description": "flag-for-sri-lanka",
+    "emoji": "🇱🇰"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-liberia_1f1f1-1f1f7.png",
+    "unicode": "1f1f1-1f1f7",
+    "description": "flag-for-liberia",
+    "emoji": "🇱🇷"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-lesotho_1f1f1-1f1f8.png",
+    "unicode": "1f1f1-1f1f8",
+    "description": "flag-for-lesotho",
+    "emoji": "🇱🇸"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-lithuania_1f1f1-1f1f9.png",
+    "unicode": "1f1f1-1f1f9",
+    "description": "flag-for-lithuania",
+    "emoji": "🇱🇹"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-luxembourg_1f1f1-1f1fa.png",
+    "unicode": "1f1f1-1f1fa",
+    "description": "flag-for-luxembourg",
+    "emoji": "🇱🇺"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-latvia_1f1f1-1f1fb.png",
+    "unicode": "1f1f1-1f1fb",
+    "description": "flag-for-latvia",
+    "emoji": "🇱🇻"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-libya_1f1f1-1f1fe.png",
+    "unicode": "1f1f1-1f1fe",
+    "description": "flag-for-libya",
+    "emoji": "🇱🇾"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-morocco_1f1f2-1f1e6.png",
+    "unicode": "1f1f2-1f1e6",
+    "description": "flag-for-morocco",
+    "emoji": "🇲🇦"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-monaco_1f1f2-1f1e8.png",
+    "unicode": "1f1f2-1f1e8",
+    "description": "flag-for-monaco",
+    "emoji": "🇲🇨"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-moldova_1f1f2-1f1e9.png",
+    "unicode": "1f1f2-1f1e9",
+    "description": "flag-for-moldova",
+    "emoji": "🇲🇩"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-montenegro_1f1f2-1f1ea.png",
+    "unicode": "1f1f2-1f1ea",
+    "description": "flag-for-montenegro",
+    "emoji": "🇲🇪"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-st-martin_1f1f2-1f1eb.png",
+    "unicode": "1f1f2-1f1eb",
+    "description": "flag-for-st-martin",
+    "emoji": "🇲🇫"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-madagascar_1f1f2-1f1ec.png",
+    "unicode": "1f1f2-1f1ec",
+    "description": "flag-for-madagascar",
+    "emoji": "🇲🇬"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-marshall-islands_1f1f2-1f1ed.png",
+    "unicode": "1f1f2-1f1ed",
+    "description": "flag-for-marshall-islands",
+    "emoji": "🇲🇭"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-macedonia_1f1f2-1f1f0.png",
+    "unicode": "1f1f2-1f1f0",
+    "description": "flag-for-macedonia",
+    "emoji": "🇲🇰"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-mali_1f1f2-1f1f1.png",
+    "unicode": "1f1f2-1f1f1",
+    "description": "flag-for-mali",
+    "emoji": "🇲🇱"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-myanmar_1f1f2-1f1f2.png",
+    "unicode": "1f1f2-1f1f2",
+    "description": "flag-for-myanmar",
+    "emoji": "🇲🇲"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-mongolia_1f1f2-1f1f3.png",
+    "unicode": "1f1f2-1f1f3",
+    "description": "flag-for-mongolia",
+    "emoji": "🇲🇳"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-macau_1f1f2-1f1f4.png",
+    "unicode": "1f1f2-1f1f4",
+    "description": "flag-for-macau",
+    "emoji": "🇲🇴"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-northern-mariana-islands_1f1f2-1f1f5.png",
+    "unicode": "1f1f2-1f1f5",
+    "description": "flag-for-northern-mariana-islands",
+    "emoji": "🇲🇵"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-martinique_1f1f2-1f1f6.png",
+    "unicode": "1f1f2-1f1f6",
+    "description": "flag-for-martinique",
+    "emoji": "🇲🇶"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-mauritania_1f1f2-1f1f7.png",
+    "unicode": "1f1f2-1f1f7",
+    "description": "flag-for-mauritania",
+    "emoji": "🇲🇷"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-montserrat_1f1f2-1f1f8.png",
+    "unicode": "1f1f2-1f1f8",
+    "description": "flag-for-montserrat",
+    "emoji": "🇲🇸"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-malta_1f1f2-1f1f9.png",
+    "unicode": "1f1f2-1f1f9",
+    "description": "flag-for-malta",
+    "emoji": "🇲🇹"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-mauritius_1f1f2-1f1fa.png",
+    "unicode": "1f1f2-1f1fa",
+    "description": "flag-for-mauritius",
+    "emoji": "🇲🇺"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-maldives_1f1f2-1f1fb.png",
+    "unicode": "1f1f2-1f1fb",
+    "description": "flag-for-maldives",
+    "emoji": "🇲🇻"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-malawi_1f1f2-1f1fc.png",
+    "unicode": "1f1f2-1f1fc",
+    "description": "flag-for-malawi",
+    "emoji": "🇲🇼"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-mexico_1f1f2-1f1fd.png",
+    "unicode": "1f1f2-1f1fd",
+    "description": "flag-for-mexico",
+    "emoji": "🇲🇽"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-malaysia_1f1f2-1f1fe.png",
+    "unicode": "1f1f2-1f1fe",
+    "description": "flag-for-malaysia",
+    "emoji": "🇲🇾"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-mozambique_1f1f2-1f1ff.png",
+    "unicode": "1f1f2-1f1ff",
+    "description": "flag-for-mozambique",
+    "emoji": "🇲🇿"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-namibia_1f1f3-1f1e6.png",
+    "unicode": "1f1f3-1f1e6",
+    "description": "flag-for-namibia",
+    "emoji": "🇳🇦"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-new-caledonia_1f1f3-1f1e8.png",
+    "unicode": "1f1f3-1f1e8",
+    "description": "flag-for-new-caledonia",
+    "emoji": "🇳🇨"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-niger_1f1f3-1f1ea.png",
+    "unicode": "1f1f3-1f1ea",
+    "description": "flag-for-niger",
+    "emoji": "🇳🇪"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-norfolk-island_1f1f3-1f1eb.png",
+    "unicode": "1f1f3-1f1eb",
+    "description": "flag-for-norfolk-island",
+    "emoji": "🇳🇫"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-nigeria_1f1f3-1f1ec.png",
+    "unicode": "1f1f3-1f1ec",
+    "description": "flag-for-nigeria",
+    "emoji": "🇳🇬"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-nicaragua_1f1f3-1f1ee.png",
+    "unicode": "1f1f3-1f1ee",
+    "description": "flag-for-nicaragua",
+    "emoji": "🇳🇮"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-netherlands_1f1f3-1f1f1.png",
+    "unicode": "1f1f3-1f1f1",
+    "description": "flag-for-netherlands",
+    "emoji": "🇳🇱"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-norway_1f1f3-1f1f4.png",
+    "unicode": "1f1f3-1f1f4",
+    "description": "flag-for-norway",
+    "emoji": "🇳🇴"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-nepal_1f1f3-1f1f5.png",
+    "unicode": "1f1f3-1f1f5",
+    "description": "flag-for-nepal",
+    "emoji": "🇳🇵"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-nauru_1f1f3-1f1f7.png",
+    "unicode": "1f1f3-1f1f7",
+    "description": "flag-for-nauru",
+    "emoji": "🇳🇷"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-niue_1f1f3-1f1fa.png",
+    "unicode": "1f1f3-1f1fa",
+    "description": "flag-for-niue",
+    "emoji": "🇳🇺"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-new-zealand_1f1f3-1f1ff.png",
+    "unicode": "1f1f3-1f1ff",
+    "description": "flag-for-new-zealand",
+    "emoji": "🇳🇿"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-oman_1f1f4-1f1f2.png",
+    "unicode": "1f1f4-1f1f2",
+    "description": "flag-for-oman",
+    "emoji": "🇴🇲"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-panama_1f1f5-1f1e6.png",
+    "unicode": "1f1f5-1f1e6",
+    "description": "flag-for-panama",
+    "emoji": "🇵🇦"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-peru_1f1f5-1f1ea.png",
+    "unicode": "1f1f5-1f1ea",
+    "description": "flag-for-peru",
+    "emoji": "🇵🇪"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-french-polynesia_1f1f5-1f1eb.png",
+    "unicode": "1f1f5-1f1eb",
+    "description": "flag-for-french-polynesia",
+    "emoji": "🇵🇫"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-papua-new-guinea_1f1f5-1f1ec.png",
+    "unicode": "1f1f5-1f1ec",
+    "description": "flag-for-papua-new-guinea",
+    "emoji": "🇵🇬"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-philippines_1f1f5-1f1ed.png",
+    "unicode": "1f1f5-1f1ed",
+    "description": "flag-for-philippines",
+    "emoji": "🇵🇭"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-pakistan_1f1f5-1f1f0.png",
+    "unicode": "1f1f5-1f1f0",
+    "description": "flag-for-pakistan",
+    "emoji": "🇵🇰"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-poland_1f1f5-1f1f1.png",
+    "unicode": "1f1f5-1f1f1",
+    "description": "flag-for-poland",
+    "emoji": "🇵🇱"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-st-pierre-miquelon_1f1f5-1f1f2.png",
+    "unicode": "1f1f5-1f1f2",
+    "description": "flag-for-st-pierre-miquelon",
+    "emoji": "🇵🇲"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-pitcairn-islands_1f1f5-1f1f3.png",
+    "unicode": "1f1f5-1f1f3",
+    "description": "flag-for-pitcairn-islands",
+    "emoji": "🇵🇳"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-puerto-rico_1f1f5-1f1f7.png",
+    "unicode": "1f1f5-1f1f7",
+    "description": "flag-for-puerto-rico",
+    "emoji": "🇵🇷"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-palestinian-territories_1f1f5-1f1f8.png",
+    "unicode": "1f1f5-1f1f8",
+    "description": "flag-for-palestinian-territories",
+    "emoji": "🇵🇸"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-portugal_1f1f5-1f1f9.png",
+    "unicode": "1f1f5-1f1f9",
+    "description": "flag-for-portugal",
+    "emoji": "🇵🇹"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-palau_1f1f5-1f1fc.png",
+    "unicode": "1f1f5-1f1fc",
+    "description": "flag-for-palau",
+    "emoji": "🇵🇼"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-paraguay_1f1f5-1f1fe.png",
+    "unicode": "1f1f5-1f1fe",
+    "description": "flag-for-paraguay",
+    "emoji": "🇵🇾"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-qatar_1f1f6-1f1e6.png",
+    "unicode": "1f1f6-1f1e6",
+    "description": "flag-for-qatar",
+    "emoji": "🇶🇦"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-reunion_1f1f7-1f1ea.png",
+    "unicode": "1f1f7-1f1ea",
+    "description": "flag-for-reunion",
+    "emoji": "🇷🇪"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-romania_1f1f7-1f1f4.png",
+    "unicode": "1f1f7-1f1f4",
+    "description": "flag-for-romania",
+    "emoji": "🇷🇴"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-serbia_1f1f7-1f1f8.png",
+    "unicode": "1f1f7-1f1f8",
+    "description": "flag-for-serbia",
+    "emoji": "🇷🇸"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-russia_1f1f7-1f1fa.png",
+    "unicode": "1f1f7-1f1fa",
+    "description": "flag-for-russia",
+    "emoji": "🇷🇺"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-rwanda_1f1f7-1f1fc.png",
+    "unicode": "1f1f7-1f1fc",
+    "description": "flag-for-rwanda",
+    "emoji": "🇷🇼"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-saudi-arabia_1f1f8-1f1e6.png",
+    "unicode": "1f1f8-1f1e6",
+    "description": "flag-for-saudi-arabia",
+    "emoji": "🇸🇦"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-solomon-islands_1f1f8-1f1e7.png",
+    "unicode": "1f1f8-1f1e7",
+    "description": "flag-for-solomon-islands",
+    "emoji": "🇸🇧"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-seychelles_1f1f8-1f1e8.png",
+    "unicode": "1f1f8-1f1e8",
+    "description": "flag-for-seychelles",
+    "emoji": "🇸🇨"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-sudan_1f1f8-1f1e9.png",
+    "unicode": "1f1f8-1f1e9",
+    "description": "flag-for-sudan",
+    "emoji": "🇸🇩"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-sweden_1f1f8-1f1ea.png",
+    "unicode": "1f1f8-1f1ea",
+    "description": "flag-for-sweden",
+    "emoji": "🇸🇪"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-singapore_1f1f8-1f1ec.png",
+    "unicode": "1f1f8-1f1ec",
+    "description": "flag-for-singapore",
+    "emoji": "🇸🇬"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-st-helena_1f1f8-1f1ed.png",
+    "unicode": "1f1f8-1f1ed",
+    "description": "flag-for-st-helena",
+    "emoji": "🇸🇭"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-slovenia_1f1f8-1f1ee.png",
+    "unicode": "1f1f8-1f1ee",
+    "description": "flag-for-slovenia",
+    "emoji": "🇸🇮"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-svalbard-jan-mayen_1f1f8-1f1ef.png",
+    "unicode": "1f1f8-1f1ef",
+    "description": "flag-for-svalbard-jan-mayen",
+    "emoji": "🇸🇯"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-slovakia_1f1f8-1f1f0.png",
+    "unicode": "1f1f8-1f1f0",
+    "description": "flag-for-slovakia",
+    "emoji": "🇸🇰"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-sierra-leone_1f1f8-1f1f1.png",
+    "unicode": "1f1f8-1f1f1",
+    "description": "flag-for-sierra-leone",
+    "emoji": "🇸🇱"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-san-marino_1f1f8-1f1f2.png",
+    "unicode": "1f1f8-1f1f2",
+    "description": "flag-for-san-marino",
+    "emoji": "🇸🇲"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-senegal_1f1f8-1f1f3.png",
+    "unicode": "1f1f8-1f1f3",
+    "description": "flag-for-senegal",
+    "emoji": "🇸🇳"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-somalia_1f1f8-1f1f4.png",
+    "unicode": "1f1f8-1f1f4",
+    "description": "flag-for-somalia",
+    "emoji": "🇸🇴"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-suriname_1f1f8-1f1f7.png",
+    "unicode": "1f1f8-1f1f7",
+    "description": "flag-for-suriname",
+    "emoji": "🇸🇷"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-south-sudan_1f1f8-1f1f8.png",
+    "unicode": "1f1f8-1f1f8",
+    "description": "flag-for-south-sudan",
+    "emoji": "🇸🇸"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-sao-tome-principe_1f1f8-1f1f9.png",
+    "unicode": "1f1f8-1f1f9",
+    "description": "flag-for-sao-tome-principe",
+    "emoji": "🇸🇹"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-el-salvador_1f1f8-1f1fb.png",
+    "unicode": "1f1f8-1f1fb",
+    "description": "flag-for-el-salvador",
+    "emoji": "🇸🇻"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-sint-maarten_1f1f8-1f1fd.png",
+    "unicode": "1f1f8-1f1fd",
+    "description": "flag-for-sint-maarten",
+    "emoji": "🇸🇽"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-syria_1f1f8-1f1fe.png",
+    "unicode": "1f1f8-1f1fe",
+    "description": "flag-for-syria",
+    "emoji": "🇸🇾"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-swaziland_1f1f8-1f1ff.png",
+    "unicode": "1f1f8-1f1ff",
+    "description": "flag-for-swaziland",
+    "emoji": "🇸🇿"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-tristan-da-cunha_1f1f9-1f1e6.png",
+    "unicode": "1f1f9-1f1e6",
+    "description": "flag-for-tristan-da-cunha",
+    "emoji": "🇹🇦"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-turks-caicos-islands_1f1f9-1f1e8.png",
+    "unicode": "1f1f9-1f1e8",
+    "description": "flag-for-turks-caicos-islands",
+    "emoji": "🇹🇨"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-chad_1f1f9-1f1e9.png",
+    "unicode": "1f1f9-1f1e9",
+    "description": "flag-for-chad",
+    "emoji": "🇹🇩"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-french-southern-territories_1f1f9-1f1eb.png",
+    "unicode": "1f1f9-1f1eb",
+    "description": "flag-for-french-southern-territories",
+    "emoji": "🇹🇫"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-togo_1f1f9-1f1ec.png",
+    "unicode": "1f1f9-1f1ec",
+    "description": "flag-for-togo",
+    "emoji": "🇹🇬"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-thailand_1f1f9-1f1ed.png",
+    "unicode": "1f1f9-1f1ed",
+    "description": "flag-for-thailand",
+    "emoji": "🇹🇭"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-tajikistan_1f1f9-1f1ef.png",
+    "unicode": "1f1f9-1f1ef",
+    "description": "flag-for-tajikistan",
+    "emoji": "🇹🇯"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-tokelau_1f1f9-1f1f0.png",
+    "unicode": "1f1f9-1f1f0",
+    "description": "flag-for-tokelau",
+    "emoji": "🇹🇰"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-timor-leste_1f1f9-1f1f1.png",
+    "unicode": "1f1f9-1f1f1",
+    "description": "flag-for-timor-leste",
+    "emoji": "🇹🇱"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-turkmenistan_1f1f9-1f1f2.png",
+    "unicode": "1f1f9-1f1f2",
+    "description": "flag-for-turkmenistan",
+    "emoji": "🇹🇲"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-tunisia_1f1f9-1f1f3.png",
+    "unicode": "1f1f9-1f1f3",
+    "description": "flag-for-tunisia",
+    "emoji": "🇹🇳"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-tonga_1f1f9-1f1f4.png",
+    "unicode": "1f1f9-1f1f4",
+    "description": "flag-for-tonga",
+    "emoji": "🇹🇴"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-turkey_1f1f9-1f1f7.png",
+    "unicode": "1f1f9-1f1f7",
+    "description": "flag-for-turkey",
+    "emoji": "🇹🇷"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-trinidad-tobago_1f1f9-1f1f9.png",
+    "unicode": "1f1f9-1f1f9",
+    "description": "flag-for-trinidad-tobago",
+    "emoji": "🇹🇹"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-tuvalu_1f1f9-1f1fb.png",
+    "unicode": "1f1f9-1f1fb",
+    "description": "flag-for-tuvalu",
+    "emoji": "🇹🇻"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-taiwan_1f1f9-1f1fc.png",
+    "unicode": "1f1f9-1f1fc",
+    "description": "flag-for-taiwan",
+    "emoji": "🇹🇼"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-tanzania_1f1f9-1f1ff.png",
+    "unicode": "1f1f9-1f1ff",
+    "description": "flag-for-tanzania",
+    "emoji": "🇹🇿"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-ukraine_1f1fa-1f1e6.png",
+    "unicode": "1f1fa-1f1e6",
+    "description": "flag-for-ukraine",
+    "emoji": "🇺🇦"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-uganda_1f1fa-1f1ec.png",
+    "unicode": "1f1fa-1f1ec",
+    "description": "flag-for-uganda",
+    "emoji": "🇺🇬"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-us-outlying-islands_1f1fa-1f1f2.png",
+    "unicode": "1f1fa-1f1f2",
+    "description": "flag-for-us-outlying-islands",
+    "emoji": "🇺🇲"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-united-nations_1f1fa-1f1f3.png",
+    "unicode": "1f1fa-1f1f3",
+    "description": "flag-for-united-nations",
+    "emoji": "🇺🇳"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-united-states_1f1fa-1f1f8.png",
+    "unicode": "1f1fa-1f1f8",
+    "description": "flag-for-united-states",
+    "emoji": "🇺🇸"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-uruguay_1f1fa-1f1fe.png",
+    "unicode": "1f1fa-1f1fe",
+    "description": "flag-for-uruguay",
+    "emoji": "🇺🇾"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-uzbekistan_1f1fa-1f1ff.png",
+    "unicode": "1f1fa-1f1ff",
+    "description": "flag-for-uzbekistan",
+    "emoji": "🇺🇿"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-vatican-city_1f1fb-1f1e6.png",
+    "unicode": "1f1fb-1f1e6",
+    "description": "flag-for-vatican-city",
+    "emoji": "🇻🇦"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-st-vincent-grenadines_1f1fb-1f1e8.png",
+    "unicode": "1f1fb-1f1e8",
+    "description": "flag-for-st-vincent-grenadines",
+    "emoji": "🇻🇨"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-venezuela_1f1fb-1f1ea.png",
+    "unicode": "1f1fb-1f1ea",
+    "description": "flag-for-venezuela",
+    "emoji": "🇻🇪"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-british-virgin-islands_1f1fb-1f1ec.png",
+    "unicode": "1f1fb-1f1ec",
+    "description": "flag-for-british-virgin-islands",
+    "emoji": "🇻🇬"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-us-virgin-islands_1f1fb-1f1ee.png",
+    "unicode": "1f1fb-1f1ee",
+    "description": "flag-for-us-virgin-islands",
+    "emoji": "🇻🇮"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-vietnam_1f1fb-1f1f3.png",
+    "unicode": "1f1fb-1f1f3",
+    "description": "flag-for-vietnam",
+    "emoji": "🇻🇳"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-vanuatu_1f1fb-1f1fa.png",
+    "unicode": "1f1fb-1f1fa",
+    "description": "flag-for-vanuatu",
+    "emoji": "🇻🇺"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-wallis-futuna_1f1fc-1f1eb.png",
+    "unicode": "1f1fc-1f1eb",
+    "description": "flag-for-wallis-futuna",
+    "emoji": "🇼🇫"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-samoa_1f1fc-1f1f8.png",
+    "unicode": "1f1fc-1f1f8",
+    "description": "flag-for-samoa",
+    "emoji": "🇼🇸"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-kosovo_1f1fd-1f1f0.png",
+    "unicode": "1f1fd-1f1f0",
+    "description": "flag-for-kosovo",
+    "emoji": "🇽🇰"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-yemen_1f1fe-1f1ea.png",
+    "unicode": "1f1fe-1f1ea",
+    "description": "flag-for-yemen",
+    "emoji": "🇾🇪"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-mayotte_1f1fe-1f1f9.png",
+    "unicode": "1f1fe-1f1f9",
+    "description": "flag-for-mayotte",
+    "emoji": "🇾🇹"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-south-africa_1f1ff-1f1e6.png",
+    "unicode": "1f1ff-1f1e6",
+    "description": "flag-for-south-africa",
+    "emoji": "🇿🇦"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-zambia_1f1ff-1f1f2.png",
+    "unicode": "1f1ff-1f1f2",
+    "description": "flag-for-zambia",
+    "emoji": "🇿🇲"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-zimbabwe_1f1ff-1f1fc.png",
+    "unicode": "1f1ff-1f1fc",
+    "description": "flag-for-zimbabwe",
+    "emoji": "🇿🇼"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-england_1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png",
+    "unicode": "1f3f4-e0067-e0062-e0065-e006e-e0067-e007f",
+    "description": "flag-for-england",
+    "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-scotland_1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.png",
+    "unicode": "1f3f4-e0067-e0062-e0073-e0063-e0074-e007f",
+    "description": "flag-for-scotland",
+    "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/flag-for-wales_1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.png",
+    "unicode": "1f3f4-e0067-e0062-e0077-e006c-e0073-e007f",
+    "description": "flag-for-wales",
+    "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/224/flag-for-texas-ustx_1f3f4-e0075-e0073-e0074-e0078-e007f.png",
+    "unicode": "1f3f4-e0075-e0073-e0074-e0078-e007f",
+    "description": "flag-for-texas-ustx",
+    "emoji": "🏴󠁵󠁳󠁴󠁸󠁿"
+  }
+]

@@ -1,0 +1,1190 @@
+[
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/love-letter_1f48c.png",
+    "unicode": "1f48c",
+    "description": "love-letter",
+    "emoji": "💌"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/hole_1f573.png",
+    "unicode": "1f573",
+    "description": "hole",
+    "emoji": "🕳"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/bomb_1f4a3.png",
+    "unicode": "1f4a3",
+    "description": "bomb",
+    "emoji": "💣"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/bath_1f6c0.png",
+    "unicode": "1f6c0",
+    "description": "bath",
+    "emoji": "🛀"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/sleeping-accommodation_1f6cc.png",
+    "unicode": "1f6cc",
+    "description": "sleeping-accommodation",
+    "emoji": "🛌"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/hocho_1f52a.png",
+    "unicode": "1f52a",
+    "description": "hocho",
+    "emoji": "🔪"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/amphora_1f3fa.png",
+    "unicode": "1f3fa",
+    "description": "amphora",
+    "emoji": "🏺"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/world-map_1f5fa.png",
+    "unicode": "1f5fa",
+    "description": "world-map",
+    "emoji": "🗺"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/compass_1f9ed.png",
+    "unicode": "1f9ed",
+    "description": "compass",
+    "emoji": "🧭"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/brick_1f9f1.png",
+    "unicode": "1f9f1",
+    "description": "brick",
+    "emoji": "🧱"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/barber-pole_1f488.png",
+    "unicode": "1f488",
+    "description": "barber-pole",
+    "emoji": "💈"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/oil-drum_1f6e2.png",
+    "unicode": "1f6e2",
+    "description": "oil-drum",
+    "emoji": "🛢"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/bellhop-bell_1f6ce.png",
+    "unicode": "1f6ce",
+    "description": "bellhop-bell",
+    "emoji": "🛎"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/luggage_1f9f3.png",
+    "unicode": "1f9f3",
+    "description": "luggage",
+    "emoji": "🧳"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/hourglass_231b.png",
+    "unicode": "231b",
+    "description": "hourglass",
+    "emoji": "⌛"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/hourglass-with-flowing-sand_23f3.png",
+    "unicode": "23f3",
+    "description": "hourglass-with-flowing-sand",
+    "emoji": "⏳"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/watch_231a.png",
+    "unicode": "231a",
+    "description": "watch",
+    "emoji": "⌚"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/alarm-clock_23f0.png",
+    "unicode": "23f0",
+    "description": "alarm-clock",
+    "emoji": "⏰"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/stopwatch_23f1.png",
+    "unicode": "23f1",
+    "description": "stopwatch",
+    "emoji": "⏱"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/timer-clock_23f2.png",
+    "unicode": "23f2",
+    "description": "timer-clock",
+    "emoji": "⏲"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/mantelpiece-clock_1f570.png",
+    "unicode": "1f570",
+    "description": "mantelpiece-clock",
+    "emoji": "🕰"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/thermometer_1f321.png",
+    "unicode": "1f321",
+    "description": "thermometer",
+    "emoji": "🌡"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/umbrella-on-ground_26f1.png",
+    "unicode": "26f1",
+    "description": "umbrella-on-ground",
+    "emoji": "⛱"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/firecracker_1f9e8.png",
+    "unicode": "1f9e8",
+    "description": "firecracker",
+    "emoji": "🧨"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/balloon_1f388.png",
+    "unicode": "1f388",
+    "description": "balloon",
+    "emoji": "🎈"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/party-popper_1f389.png",
+    "unicode": "1f389",
+    "description": "party-popper",
+    "emoji": "🎉"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/confetti-ball_1f38a.png",
+    "unicode": "1f38a",
+    "description": "confetti-ball",
+    "emoji": "🎊"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/japanese-dolls_1f38e.png",
+    "unicode": "1f38e",
+    "description": "japanese-dolls",
+    "emoji": "🎎"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/carp-streamer_1f38f.png",
+    "unicode": "1f38f",
+    "description": "carp-streamer",
+    "emoji": "🎏"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/wind-chime_1f390.png",
+    "unicode": "1f390",
+    "description": "wind-chime",
+    "emoji": "🎐"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/red-gift-envelope_1f9e7.png",
+    "unicode": "1f9e7",
+    "description": "red-gift-envelope",
+    "emoji": "🧧"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/ribbon_1f380.png",
+    "unicode": "1f380",
+    "description": "ribbon",
+    "emoji": "🎀"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/wrapped-present_1f381.png",
+    "unicode": "1f381",
+    "description": "wrapped-present",
+    "emoji": "🎁"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/crystal-ball_1f52e.png",
+    "unicode": "1f52e",
+    "description": "crystal-ball",
+    "emoji": "🔮"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/nazar-amulet_1f9ff.png",
+    "unicode": "1f9ff",
+    "description": "nazar-amulet",
+    "emoji": "🧿"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/joystick_1f579.png",
+    "unicode": "1f579",
+    "description": "joystick",
+    "emoji": "🕹"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/teddy-bear_1f9f8.png",
+    "unicode": "1f9f8",
+    "description": "teddy-bear",
+    "emoji": "🧸"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/frame-with-picture_1f5bc.png",
+    "unicode": "1f5bc",
+    "description": "frame-with-picture",
+    "emoji": "🖼"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/spool-of-thread_1f9f5.png",
+    "unicode": "1f9f5",
+    "description": "spool-of-thread",
+    "emoji": "🧵"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/ball-of-yarn_1f9f6.png",
+    "unicode": "1f9f6",
+    "description": "ball-of-yarn",
+    "emoji": "🧶"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/shopping-bags_1f6cd.png",
+    "unicode": "1f6cd",
+    "description": "shopping-bags",
+    "emoji": "🛍"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/prayer-beads_1f4ff.png",
+    "unicode": "1f4ff",
+    "description": "prayer-beads",
+    "emoji": "📿"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/gem-stone_1f48e.png",
+    "unicode": "1f48e",
+    "description": "gem-stone",
+    "emoji": "💎"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/postal-horn_1f4ef.png",
+    "unicode": "1f4ef",
+    "description": "postal-horn",
+    "emoji": "📯"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/studio-microphone_1f399.png",
+    "unicode": "1f399",
+    "description": "studio-microphone",
+    "emoji": "🎙"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/level-slider_1f39a.png",
+    "unicode": "1f39a",
+    "description": "level-slider",
+    "emoji": "🎚"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/control-knobs_1f39b.png",
+    "unicode": "1f39b",
+    "description": "control-knobs",
+    "emoji": "🎛"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/radio_1f4fb.png",
+    "unicode": "1f4fb",
+    "description": "radio",
+    "emoji": "📻"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/mobile-phone_1f4f1.png",
+    "unicode": "1f4f1",
+    "description": "mobile-phone",
+    "emoji": "📱"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/mobile-phone-with-rightwards-arrow-at-left_1f4f2.png",
+    "unicode": "1f4f2",
+    "description": "mobile-phone-with-rightwards-arrow-at-left",
+    "emoji": "📲"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/black-telephone_260e.png",
+    "unicode": "260e",
+    "description": "black-telephone",
+    "emoji": "☎"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/telephone-receiver_1f4de.png",
+    "unicode": "1f4de",
+    "description": "telephone-receiver",
+    "emoji": "📞"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/pager_1f4df.png",
+    "unicode": "1f4df",
+    "description": "pager",
+    "emoji": "📟"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/fax-machine_1f4e0.png",
+    "unicode": "1f4e0",
+    "description": "fax-machine",
+    "emoji": "📠"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/battery_1f50b.png",
+    "unicode": "1f50b",
+    "description": "battery",
+    "emoji": "🔋"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/electric-plug_1f50c.png",
+    "unicode": "1f50c",
+    "description": "electric-plug",
+    "emoji": "🔌"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/personal-computer_1f4bb.png",
+    "unicode": "1f4bb",
+    "description": "personal-computer",
+    "emoji": "💻"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/desktop-computer_1f5a5.png",
+    "unicode": "1f5a5",
+    "description": "desktop-computer",
+    "emoji": "🖥"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/printer_1f5a8.png",
+    "unicode": "1f5a8",
+    "description": "printer",
+    "emoji": "🖨"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/keyboard_2328.png",
+    "unicode": "2328",
+    "description": "keyboard",
+    "emoji": "⌨"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/three-button-mouse_1f5b1.png",
+    "unicode": "1f5b1",
+    "description": "three-button-mouse",
+    "emoji": "🖱"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/trackball_1f5b2.png",
+    "unicode": "1f5b2",
+    "description": "trackball",
+    "emoji": "🖲"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/minidisc_1f4bd.png",
+    "unicode": "1f4bd",
+    "description": "minidisc",
+    "emoji": "💽"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/floppy-disk_1f4be.png",
+    "unicode": "1f4be",
+    "description": "floppy-disk",
+    "emoji": "💾"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/optical-disc_1f4bf.png",
+    "unicode": "1f4bf",
+    "description": "optical-disc",
+    "emoji": "💿"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/dvd_1f4c0.png",
+    "unicode": "1f4c0",
+    "description": "dvd",
+    "emoji": "📀"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/abacus_1f9ee.png",
+    "unicode": "1f9ee",
+    "description": "abacus",
+    "emoji": "🧮"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/movie-camera_1f3a5.png",
+    "unicode": "1f3a5",
+    "description": "movie-camera",
+    "emoji": "🎥"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/film-frames_1f39e.png",
+    "unicode": "1f39e",
+    "description": "film-frames",
+    "emoji": "🎞"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/film-projector_1f4fd.png",
+    "unicode": "1f4fd",
+    "description": "film-projector",
+    "emoji": "📽"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/television_1f4fa.png",
+    "unicode": "1f4fa",
+    "description": "television",
+    "emoji": "📺"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/camera_1f4f7.png",
+    "unicode": "1f4f7",
+    "description": "camera",
+    "emoji": "📷"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/camera-with-flash_1f4f8.png",
+    "unicode": "1f4f8",
+    "description": "camera-with-flash",
+    "emoji": "📸"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/video-camera_1f4f9.png",
+    "unicode": "1f4f9",
+    "description": "video-camera",
+    "emoji": "📹"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/videocassette_1f4fc.png",
+    "unicode": "1f4fc",
+    "description": "videocassette",
+    "emoji": "📼"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/left-pointing-magnifying-glass_1f50d.png",
+    "unicode": "1f50d",
+    "description": "left-pointing-magnifying-glass",
+    "emoji": "🔍"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/right-pointing-magnifying-glass_1f50e.png",
+    "unicode": "1f50e",
+    "description": "right-pointing-magnifying-glass",
+    "emoji": "🔎"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/candle_1f56f.png",
+    "unicode": "1f56f",
+    "description": "candle",
+    "emoji": "🕯"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/electric-light-bulb_1f4a1.png",
+    "unicode": "1f4a1",
+    "description": "electric-light-bulb",
+    "emoji": "💡"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/electric-torch_1f526.png",
+    "unicode": "1f526",
+    "description": "electric-torch",
+    "emoji": "🔦"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/izakaya-lantern_1f3ee.png",
+    "unicode": "1f3ee",
+    "description": "izakaya-lantern",
+    "emoji": "🏮"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/notebook-with-decorative-cover_1f4d4.png",
+    "unicode": "1f4d4",
+    "description": "notebook-with-decorative-cover",
+    "emoji": "📔"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/closed-book_1f4d5.png",
+    "unicode": "1f4d5",
+    "description": "closed-book",
+    "emoji": "📕"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/open-book_1f4d6.png",
+    "unicode": "1f4d6",
+    "description": "open-book",
+    "emoji": "📖"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/green-book_1f4d7.png",
+    "unicode": "1f4d7",
+    "description": "green-book",
+    "emoji": "📗"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/blue-book_1f4d8.png",
+    "unicode": "1f4d8",
+    "description": "blue-book",
+    "emoji": "📘"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/orange-book_1f4d9.png",
+    "unicode": "1f4d9",
+    "description": "orange-book",
+    "emoji": "📙"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/books_1f4da.png",
+    "unicode": "1f4da",
+    "description": "books",
+    "emoji": "📚"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/notebook_1f4d3.png",
+    "unicode": "1f4d3",
+    "description": "notebook",
+    "emoji": "📓"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/page-with-curl_1f4c3.png",
+    "unicode": "1f4c3",
+    "description": "page-with-curl",
+    "emoji": "📃"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/scroll_1f4dc.png",
+    "unicode": "1f4dc",
+    "description": "scroll",
+    "emoji": "📜"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/page-facing-up_1f4c4.png",
+    "unicode": "1f4c4",
+    "description": "page-facing-up",
+    "emoji": "📄"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/newspaper_1f4f0.png",
+    "unicode": "1f4f0",
+    "description": "newspaper",
+    "emoji": "📰"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/rolled-up-newspaper_1f5de.png",
+    "unicode": "1f5de",
+    "description": "rolled-up-newspaper",
+    "emoji": "🗞"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/bookmark-tabs_1f4d1.png",
+    "unicode": "1f4d1",
+    "description": "bookmark-tabs",
+    "emoji": "📑"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/bookmark_1f516.png",
+    "unicode": "1f516",
+    "description": "bookmark",
+    "emoji": "🔖"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/label_1f3f7.png",
+    "unicode": "1f3f7",
+    "description": "label",
+    "emoji": "🏷"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/money-bag_1f4b0.png",
+    "unicode": "1f4b0",
+    "description": "money-bag",
+    "emoji": "💰"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/banknote-with-yen-sign_1f4b4.png",
+    "unicode": "1f4b4",
+    "description": "banknote-with-yen-sign",
+    "emoji": "💴"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/banknote-with-dollar-sign_1f4b5.png",
+    "unicode": "1f4b5",
+    "description": "banknote-with-dollar-sign",
+    "emoji": "💵"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/banknote-with-euro-sign_1f4b6.png",
+    "unicode": "1f4b6",
+    "description": "banknote-with-euro-sign",
+    "emoji": "💶"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/banknote-with-pound-sign_1f4b7.png",
+    "unicode": "1f4b7",
+    "description": "banknote-with-pound-sign",
+    "emoji": "💷"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/money-with-wings_1f4b8.png",
+    "unicode": "1f4b8",
+    "description": "money-with-wings",
+    "emoji": "💸"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/credit-card_1f4b3.png",
+    "unicode": "1f4b3",
+    "description": "credit-card",
+    "emoji": "💳"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/receipt_1f9fe.png",
+    "unicode": "1f9fe",
+    "description": "receipt",
+    "emoji": "🧾"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/envelope_2709.png",
+    "unicode": "2709",
+    "description": "envelope",
+    "emoji": "✉"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/e-mail-symbol_1f4e7.png",
+    "unicode": "1f4e7",
+    "description": "e-mail-symbol",
+    "emoji": "📧"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/incoming-envelope_1f4e8.png",
+    "unicode": "1f4e8",
+    "description": "incoming-envelope",
+    "emoji": "📨"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/envelope-with-downwards-arrow-above_1f4e9.png",
+    "unicode": "1f4e9",
+    "description": "envelope-with-downwards-arrow-above",
+    "emoji": "📩"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/outbox-tray_1f4e4.png",
+    "unicode": "1f4e4",
+    "description": "outbox-tray",
+    "emoji": "📤"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/inbox-tray_1f4e5.png",
+    "unicode": "1f4e5",
+    "description": "inbox-tray",
+    "emoji": "📥"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/package_1f4e6.png",
+    "unicode": "1f4e6",
+    "description": "package",
+    "emoji": "📦"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/closed-mailbox-with-raised-flag_1f4eb.png",
+    "unicode": "1f4eb",
+    "description": "closed-mailbox-with-raised-flag",
+    "emoji": "📫"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/closed-mailbox-with-lowered-flag_1f4ea.png",
+    "unicode": "1f4ea",
+    "description": "closed-mailbox-with-lowered-flag",
+    "emoji": "📪"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/open-mailbox-with-raised-flag_1f4ec.png",
+    "unicode": "1f4ec",
+    "description": "open-mailbox-with-raised-flag",
+    "emoji": "📬"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/open-mailbox-with-lowered-flag_1f4ed.png",
+    "unicode": "1f4ed",
+    "description": "open-mailbox-with-lowered-flag",
+    "emoji": "📭"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/postbox_1f4ee.png",
+    "unicode": "1f4ee",
+    "description": "postbox",
+    "emoji": "📮"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/ballot-box-with-ballot_1f5f3.png",
+    "unicode": "1f5f3",
+    "description": "ballot-box-with-ballot",
+    "emoji": "🗳"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/pencil_270f.png",
+    "unicode": "270f",
+    "description": "pencil",
+    "emoji": "✏"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/black-nib_2712.png",
+    "unicode": "2712",
+    "description": "black-nib",
+    "emoji": "✒"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/lower-left-fountain-pen_1f58b.png",
+    "unicode": "1f58b",
+    "description": "lower-left-fountain-pen",
+    "emoji": "🖋"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/lower-left-ballpoint-pen_1f58a.png",
+    "unicode": "1f58a",
+    "description": "lower-left-ballpoint-pen",
+    "emoji": "🖊"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/lower-left-paintbrush_1f58c.png",
+    "unicode": "1f58c",
+    "description": "lower-left-paintbrush",
+    "emoji": "🖌"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/lower-left-crayon_1f58d.png",
+    "unicode": "1f58d",
+    "description": "lower-left-crayon",
+    "emoji": "🖍"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/memo_1f4dd.png",
+    "unicode": "1f4dd",
+    "description": "memo",
+    "emoji": "📝"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/file-folder_1f4c1.png",
+    "unicode": "1f4c1",
+    "description": "file-folder",
+    "emoji": "📁"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/open-file-folder_1f4c2.png",
+    "unicode": "1f4c2",
+    "description": "open-file-folder",
+    "emoji": "📂"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/card-index-dividers_1f5c2.png",
+    "unicode": "1f5c2",
+    "description": "card-index-dividers",
+    "emoji": "🗂"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/calendar_1f4c5.png",
+    "unicode": "1f4c5",
+    "description": "calendar",
+    "emoji": "📅"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/tear-off-calendar_1f4c6.png",
+    "unicode": "1f4c6",
+    "description": "tear-off-calendar",
+    "emoji": "📆"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/spiral-note-pad_1f5d2.png",
+    "unicode": "1f5d2",
+    "description": "spiral-note-pad",
+    "emoji": "🗒"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/spiral-calendar-pad_1f5d3.png",
+    "unicode": "1f5d3",
+    "description": "spiral-calendar-pad",
+    "emoji": "🗓"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/card-index_1f4c7.png",
+    "unicode": "1f4c7",
+    "description": "card-index",
+    "emoji": "📇"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/chart-with-upwards-trend_1f4c8.png",
+    "unicode": "1f4c8",
+    "description": "chart-with-upwards-trend",
+    "emoji": "📈"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/chart-with-downwards-trend_1f4c9.png",
+    "unicode": "1f4c9",
+    "description": "chart-with-downwards-trend",
+    "emoji": "📉"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/bar-chart_1f4ca.png",
+    "unicode": "1f4ca",
+    "description": "bar-chart",
+    "emoji": "📊"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/clipboard_1f4cb.png",
+    "unicode": "1f4cb",
+    "description": "clipboard",
+    "emoji": "📋"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/pushpin_1f4cc.png",
+    "unicode": "1f4cc",
+    "description": "pushpin",
+    "emoji": "📌"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/round-pushpin_1f4cd.png",
+    "unicode": "1f4cd",
+    "description": "round-pushpin",
+    "emoji": "📍"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/paperclip_1f4ce.png",
+    "unicode": "1f4ce",
+    "description": "paperclip",
+    "emoji": "📎"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/linked-paperclips_1f587.png",
+    "unicode": "1f587",
+    "description": "linked-paperclips",
+    "emoji": "🖇"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/straight-ruler_1f4cf.png",
+    "unicode": "1f4cf",
+    "description": "straight-ruler",
+    "emoji": "📏"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/triangular-ruler_1f4d0.png",
+    "unicode": "1f4d0",
+    "description": "triangular-ruler",
+    "emoji": "📐"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/black-scissors_2702.png",
+    "unicode": "2702",
+    "description": "black-scissors",
+    "emoji": "✂"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/card-file-box_1f5c3.png",
+    "unicode": "1f5c3",
+    "description": "card-file-box",
+    "emoji": "🗃"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/file-cabinet_1f5c4.png",
+    "unicode": "1f5c4",
+    "description": "file-cabinet",
+    "emoji": "🗄"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/wastebasket_1f5d1.png",
+    "unicode": "1f5d1",
+    "description": "wastebasket",
+    "emoji": "🗑"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/lock_1f512.png",
+    "unicode": "1f512",
+    "description": "lock",
+    "emoji": "🔒"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/open-lock_1f513.png",
+    "unicode": "1f513",
+    "description": "open-lock",
+    "emoji": "🔓"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/lock-with-ink-pen_1f50f.png",
+    "unicode": "1f50f",
+    "description": "lock-with-ink-pen",
+    "emoji": "🔏"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/closed-lock-with-key_1f510.png",
+    "unicode": "1f510",
+    "description": "closed-lock-with-key",
+    "emoji": "🔐"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/key_1f511.png",
+    "unicode": "1f511",
+    "description": "key",
+    "emoji": "🔑"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/old-key_1f5dd.png",
+    "unicode": "1f5dd",
+    "description": "old-key",
+    "emoji": "🗝"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/hammer_1f528.png",
+    "unicode": "1f528",
+    "description": "hammer",
+    "emoji": "🔨"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/pick_26cf.png",
+    "unicode": "26cf",
+    "description": "pick",
+    "emoji": "⛏"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/hammer-and-pick_2692.png",
+    "unicode": "2692",
+    "description": "hammer-and-pick",
+    "emoji": "⚒"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/hammer-and-wrench_1f6e0.png",
+    "unicode": "1f6e0",
+    "description": "hammer-and-wrench",
+    "emoji": "🛠"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/dagger-knife_1f5e1.png",
+    "unicode": "1f5e1",
+    "description": "dagger-knife",
+    "emoji": "🗡"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/crossed-swords_2694.png",
+    "unicode": "2694",
+    "description": "crossed-swords",
+    "emoji": "⚔"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/pistol_1f52b.png",
+    "unicode": "1f52b",
+    "description": "pistol",
+    "emoji": "🔫"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/shield_1f6e1.png",
+    "unicode": "1f6e1",
+    "description": "shield",
+    "emoji": "🛡"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/wrench_1f527.png",
+    "unicode": "1f527",
+    "description": "wrench",
+    "emoji": "🔧"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/nut-and-bolt_1f529.png",
+    "unicode": "1f529",
+    "description": "nut-and-bolt",
+    "emoji": "🔩"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/gear_2699.png",
+    "unicode": "2699",
+    "description": "gear",
+    "emoji": "⚙"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/compression_1f5dc.png",
+    "unicode": "1f5dc",
+    "description": "compression",
+    "emoji": "🗜"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/scales_2696.png",
+    "unicode": "2696",
+    "description": "scales",
+    "emoji": "⚖"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/link-symbol_1f517.png",
+    "unicode": "1f517",
+    "description": "link-symbol",
+    "emoji": "🔗"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/chains_26d3.png",
+    "unicode": "26d3",
+    "description": "chains",
+    "emoji": "⛓"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/toolbox_1f9f0.png",
+    "unicode": "1f9f0",
+    "description": "toolbox",
+    "emoji": "🧰"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/magnet_1f9f2.png",
+    "unicode": "1f9f2",
+    "description": "magnet",
+    "emoji": "🧲"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/alembic_2697.png",
+    "unicode": "2697",
+    "description": "alembic",
+    "emoji": "⚗"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/test-tube_1f9ea.png",
+    "unicode": "1f9ea",
+    "description": "test-tube",
+    "emoji": "🧪"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/petri-dish_1f9eb.png",
+    "unicode": "1f9eb",
+    "description": "petri-dish",
+    "emoji": "🧫"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/dna-double-helix_1f9ec.png",
+    "unicode": "1f9ec",
+    "description": "dna-double-helix",
+    "emoji": "🧬"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/microscope_1f52c.png",
+    "unicode": "1f52c",
+    "description": "microscope",
+    "emoji": "🔬"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/telescope_1f52d.png",
+    "unicode": "1f52d",
+    "description": "telescope",
+    "emoji": "🔭"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/satellite-antenna_1f4e1.png",
+    "unicode": "1f4e1",
+    "description": "satellite-antenna",
+    "emoji": "📡"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/syringe_1f489.png",
+    "unicode": "1f489",
+    "description": "syringe",
+    "emoji": "💉"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/pill_1f48a.png",
+    "unicode": "1f48a",
+    "description": "pill",
+    "emoji": "💊"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/door_1f6aa.png",
+    "unicode": "1f6aa",
+    "description": "door",
+    "emoji": "🚪"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/bed_1f6cf.png",
+    "unicode": "1f6cf",
+    "description": "bed",
+    "emoji": "🛏"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/couch-and-lamp_1f6cb.png",
+    "unicode": "1f6cb",
+    "description": "couch-and-lamp",
+    "emoji": "🛋"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/toilet_1f6bd.png",
+    "unicode": "1f6bd",
+    "description": "toilet",
+    "emoji": "🚽"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/shower_1f6bf.png",
+    "unicode": "1f6bf",
+    "description": "shower",
+    "emoji": "🚿"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/bathtub_1f6c1.png",
+    "unicode": "1f6c1",
+    "description": "bathtub",
+    "emoji": "🛁"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/lotion-bottle_1f9f4.png",
+    "unicode": "1f9f4",
+    "description": "lotion-bottle",
+    "emoji": "🧴"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/safety-pin_1f9f7.png",
+    "unicode": "1f9f7",
+    "description": "safety-pin",
+    "emoji": "🧷"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/broom_1f9f9.png",
+    "unicode": "1f9f9",
+    "description": "broom",
+    "emoji": "🧹"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/basket_1f9fa.png",
+    "unicode": "1f9fa",
+    "description": "basket",
+    "emoji": "🧺"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/roll-of-paper_1f9fb.png",
+    "unicode": "1f9fb",
+    "description": "roll-of-paper",
+    "emoji": "🧻"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/bar-of-soap_1f9fc.png",
+    "unicode": "1f9fc",
+    "description": "bar-of-soap",
+    "emoji": "🧼"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/sponge_1f9fd.png",
+    "unicode": "1f9fd",
+    "description": "sponge",
+    "emoji": "🧽"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/fire-extinguisher_1f9ef.png",
+    "unicode": "1f9ef",
+    "description": "fire-extinguisher",
+    "emoji": "🧯"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/smoking-symbol_1f6ac.png",
+    "unicode": "1f6ac",
+    "description": "smoking-symbol",
+    "emoji": "🚬"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/coffin_26b0.png",
+    "unicode": "26b0",
+    "description": "coffin",
+    "emoji": "⚰"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/funeral-urn_26b1.png",
+    "unicode": "26b1",
+    "description": "funeral-urn",
+    "emoji": "⚱"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/moyai_1f5ff.png",
+    "unicode": "1f5ff",
+    "description": "moyai",
+    "emoji": "🗿"
+  },
+  {
+    "url": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/232/potable-water-symbol_1f6b0.png",
+    "unicode": "1f6b0",
+    "description": "potable-water-symbol",
+    "emoji": "🚰"
+  }
+]
